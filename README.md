@@ -1,14 +1,14 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
-<p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
-</p>
+## Innovative QA System Laravel.
 
-## About Laravel
+I developed this application with the help of laravel framework, the application is fully based on students final year project problems.
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
+## Features by this project:
+
+1. A student have to post if there is any problem to them in the final year project. Professors, programmers, and the users who knows answer to it will able to answer via the application.
+2. It has the feature to upload multiple images via the editor, user can formate the text and can answer and post question likewise.
+3. There is feature of comments, a user can comment on another students answers or questions, but they are not authorise to delete comments of other users who posted.
+4. User can see there posted questions and can delete or edit their questions, other users can not delete post of the users who posted the question.
+5. The system includes advance comments feature in which you can upload images even in comments.
 
