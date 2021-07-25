@@ -4,7 +4,7 @@
 I developed this application with the help of laravel framework, the application is fully based on students final year project problems.
 
 
-## Features by this project:
+### Features by this project:
 
 1. A student have to post if there is any problem to them in the final year project. Professors, programmers, and the users who knows answer to it will able to answer via the application.
 2. It has the feature to upload multiple images via the editor, user can formate the text and can answer and post question likewise.
